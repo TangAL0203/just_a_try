@@ -14,4 +14,8 @@ This is a try about using github to manage my code project!
 
 ![皮卡丘](http://a2.att.hudong.com/81/16/19300534097956134709167599210.jpg)
 
+**本地新增的更改**
+
+- 坑爹的研究生生涯
+
 
