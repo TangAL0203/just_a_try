@@ -18,4 +18,7 @@ This is a try about using github to manage my code project!
 
 - 坑爹的研究生生涯
 
+**假设一下为一次错误的提交**
+- 错误的提交，需要通过git reset --hard <commid_id>回退到某个版本
+
 
