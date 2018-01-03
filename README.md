@@ -21,4 +21,7 @@ This is a try about using github to manage my code project!
 **假设一下为一次错误的提交**
 - 错误的提交，需要通过git reset --hard <commid_id>回退到某个版本
 
+*学习版本回退*
 
+**这是版本一的内容**
+今天周一，晚上打球很开心
