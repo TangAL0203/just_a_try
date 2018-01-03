@@ -25,3 +25,6 @@ This is a try about using github to manage my code project!
 
 **这是版本一的内容**
 今天周一，晚上打球很开心
+
+**这是版本二的内容**
+今天周二，晚饭吃的很开心
