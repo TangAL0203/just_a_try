@@ -1,3 +1,5 @@
 # ignore directory
 ignore_file.txt
 hh/*/*.jpg
+
+checkpoint/  # 忽略整个checkpoint文件夹，checkpoint文件夹不会存在！

@@ -1,0 +1,4 @@
+# ignore all files of current folder, except .gitignore file
+# so we can undirectly save folder to save file structures
+*
+!.gitignore
